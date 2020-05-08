@@ -10,8 +10,6 @@ describe "#using_times" do
 end
 
 
-7.times do
-  puts using_times = "Wingardium Leviosa"
-end
+
 
 
